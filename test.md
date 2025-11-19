@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> To set up shell integration (key bindings and fuzzy completion),
+> see [the instructions below](#setting-up-shell-integration).
+
+[![Packaging status](https://repology.org/badge/vertical-allrepos/fzf.svg?columns=3)](https://repology.org/project/fzf/versions)
+
 > [!NOTE]
 > You can override the default behavior
 > * Either by setting `$FZF_DEFAULT_COMMAND` to a command that generates the desired list
@@ -9,3 +15,29 @@
 > ```sh
 > fzf --print0 | xargs -0 -o vim
 > ```
+
+---
+
+* [Installation](#installation)
+    * [Using Homebrew](#using-homebrew)
+    * [Linux packages](#linux-packages)
+    * [Windows packages](#windows-packages)
+    * [Using git](#using-git)
+    * [Binary releases](#binary-releases)
+    * [Setting up shell integration](#setting-up-shell-integration)
+
+
+---
+
+
+<!-- vim-markdown-toc GFM -->
+
+* [Installation](#installation)
+    * [Using Homebrew](#using-homebrew)
+    * [Linux packages](#linux-packages)
+    * [Windows packages](#windows-packages)
+    * [Using git](#using-git)
+    * [Binary releases](#binary-releases)
+    * [Setting up shell integration](#setting-up-shell-integration)
+
+<!-- vim-markdown-toc -->
