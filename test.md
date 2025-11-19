@@ -2,8 +2,6 @@
 
 ---
 
-![alt text](./assets/png/bash_shortcuts.png)
-
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
@@ -18,3 +16,5 @@
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
+
+---
