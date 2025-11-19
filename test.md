@@ -1,4 +1,4 @@
-[![Packaging status](./assets/png/bash_shortcuts.png)]
+![Bash Shortcuts](./assets/png/bash_shortcuts.png)
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
