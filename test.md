@@ -1,5 +1,9 @@
 ![Bash Shortcuts](./assets/png/bash_shortcuts.png)
 
+---
+
+![alt text](./assets/png/bash_shortcuts.png)
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
