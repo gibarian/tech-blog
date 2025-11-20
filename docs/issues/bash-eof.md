@@ -1,3 +1,5 @@
+## EOF - three scenarios
+
 === "<< EOF"
 
     >```bash title="code" linenums="1" hl_lines="3"
@@ -25,7 +27,7 @@
     >    cat > /dev/stdout <<- EOF
     >    line1
     >    line2 $foo
-    >	EOF
+    >	 EOF
     >}
     >display_lines
     >```
@@ -44,7 +46,7 @@
     >    cat > /dev/stdout <<- 'EOF'
     >    line1
     >    line2 $foo
-    >	EOF
+    >	 EOF
     >}
     >display_lines
     >```

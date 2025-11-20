@@ -1,3 +1,5 @@
+## selected shortcuts
+
 | **Shortcut**      | **Description**    |
 |-------------------|--------------------|
 | alt + a           | Broadcast all      |
@@ -7,7 +9,8 @@
 | ctrl + shift + x  | maximazied current |
 | shift + super + g | Ungroup_tab        |
 
----
+
+## config file
 
 ```ini linenums="1"
 [global_config]
