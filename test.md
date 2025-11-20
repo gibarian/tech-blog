@@ -1,3 +1,9 @@
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+
 ![Bash Shortcuts](./assets/png/bash_shortcuts.png)
 
 ---
