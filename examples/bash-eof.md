@@ -16,7 +16,7 @@
 >        line1
 >        line2 one
 >```
----
+
 &nbsp;
 
 >bash code:
@@ -38,7 +38,6 @@
 >line2 one
 >```
 
----
 &nbsp;
 
 >bash code:
@@ -59,5 +58,3 @@
 >line1
 >line2 $foo
 >```
-
-</details>
