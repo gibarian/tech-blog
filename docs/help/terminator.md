@@ -1,7 +1,11 @@
-| Shortcut | Description        |
-|----------|--------------------|
-| alt + a  | Broadcast all      |
-| alt + g  | Broadcast to group |
+| **Shortcut**      | **Description**    |
+|-------------------|--------------------|
+| alt + a           | Broadcast all      |
+| alt + g           | Broadcast to group |
+| ctrl + shift + o  | Split horizontally |
+| ctrl + shift + e  | Split vertically   |
+| ctrl + shift + x  | maximazied current |
+| shift + super + g | Ungroup_tab        |
 
 ---
 
