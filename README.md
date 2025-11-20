@@ -1,13 +1,17 @@
-## Help
-- [Bash](help/bash.md)
+## How start
 
-## Config Files
-- [Screen](configs/screen.md)
-- [Tmux](configs/tmux.md)
+```bash
+python3 -m venv venv
+source ./venv/bin/activate
+python3 -m pip install -r requirements.txt
+```
 
-## Examples
-- [Bash EOF](examples/bash-eof.md)
+## to turn off vnenv
+```bash
+deativate
+```
 
-## Issues
-
-
+## How to start server localy on port 8000
+```bash
+mkdocs serve
+```

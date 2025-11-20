@@ -1,6 +1,4 @@
-~/.tmux.conf
-
-```bash
+```bash title="~/.tmux.conf" linenums="1"
 # Set scrollback buffer to 50000 lines
 set-option -g history-limit 50000
 
