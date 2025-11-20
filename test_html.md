@@ -10,7 +10,7 @@
 </details>
 
 
-<div style="background-color:#f0f8ff; padding:15px; border-radius:8px;">
+<div style="background-color:black; color:red; padding:15px; border-radius:8px;">
 <h3>Blog Post Title</h3>
 <p>This is the content of your blog post inside a styled div.</p>
 </div>
