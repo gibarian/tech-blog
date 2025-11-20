@@ -1,3 +1,10 @@
+| Shortcut | Description        |
+|----------|--------------------|
+| alt + a  | Broadcast all      |
+| alt + g  | Broadcast to group |
+
+---
+
 ```ini linenums="1"
 [global_config]
   enabled_plugins = LaunchpadCodeURLHandler, APTURLHandler, Logger, LaunchpadBugURLHandler
