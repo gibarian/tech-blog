@@ -1,8 +1,9 @@
 ## Help
+- [Bash](help/bash.md)
 
 ## Config Files
-- [screen](configs/screen.md)
-- [tmux](configs/tmux.md)
+- [Screen](configs/screen.md)
+- [Tmux](configs/tmux.md)
 
 ## Examples
 - [Bash EOF](examples/bash-eof.md)
