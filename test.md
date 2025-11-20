@@ -20,3 +20,8 @@
 ---
 
 > **Note:** This is an important note.
+
+
+:::warning
+This is a warning block.
+:::
