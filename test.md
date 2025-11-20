@@ -1,13 +1,3 @@
-markdown_extensions:
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
-
-
-![Bash Shortcuts](./assets/png/bash_shortcuts.png)
-
----
-
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
@@ -24,16 +14,6 @@ markdown_extensions:
 > Advises about risks or negative outcomes of certain actions.
 
 ---
-
-> **Note:** This is an important note.
-
-:::warning
-This is a warning block.
-:::
-
-> **Warning**
-> Something important here.
-
 
 !!! note
 
@@ -57,9 +37,3 @@ code
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
         nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
         massa, nec semper lorem quam in massa
-
-
-theme:
-  icon:
-    admonition:
-      <type>: <icon>

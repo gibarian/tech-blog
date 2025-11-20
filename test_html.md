@@ -1,4 +1,3 @@
-
 <details>
     <summary>Blog Post 1</summary>
     <p>This is the content of the first post.</p>
