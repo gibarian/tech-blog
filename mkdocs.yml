@@ -3,7 +3,7 @@ site_url: https://sitename.example
 theme:
   icon:
     logo: material/laptop
-  favicon: assets/png/devops.png
+  favicon: assets/devops.png
   name: material
   font:
     text: Merriweather Sans
