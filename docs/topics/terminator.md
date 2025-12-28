@@ -1,3 +1,7 @@
+---
+title: '- Terminator'
+---
+
 ## selected shortcuts
 
 | **Shortcut**      | **Description**    |

@@ -3,7 +3,7 @@ site_url: https://sitename.example
 theme:
   icon:
     logo: material/laptop
-  favicon: assets/devops.png
+  favicon: ./assets/head/devops.png
   name: material
   font:
     text: Merriweather Sans
@@ -17,28 +17,30 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Dark mode
-      primary: deep purple
-      accent: deep purple
+      primary: black
+      accent: indigo
     # Light Mode
     - scheme: default
       toggle:
         icon: material/weather-night
         name: Light mode
-      primary: blue
-      accent: light blue
+      primary: black
+      accent: indigo
 
-# Some extra for footer
-extra:
-  social:
-    - icon: simple/youtube
-      link: https://youtube.com
-    - icon: material/linkedin
-      link: https://linkedin.com
 copyright: Copyright &copy; 2025 Gibarian
 
 # Markdown extensions
 markdown_extensions:
+  - abbr
   - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -46,14 +48,8 @@ markdown_extensions:
       anchor_linenums: true
       line_spans: __span
       pygments_lang_class: true
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid

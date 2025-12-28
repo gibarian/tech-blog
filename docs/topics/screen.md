@@ -1,3 +1,7 @@
+---
+title: '- Screen'
+---
+
 ## config file
 
 ```bash title="~/.screenrc || /etc/screenrc" linenums="1"

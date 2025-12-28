@@ -1,4 +1,15 @@
+---
+title: '- Bash'
+---
+
+## Bash shell shortcuts
+
+![Bash Shortcuts](../assets/pages/bash_shortcuts.png)
+
+
 ## EOF - three scenarios
+
+Tabs must be used instead of spaces for indentations
 
 === "<< EOF"
 

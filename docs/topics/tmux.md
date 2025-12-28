@@ -1,3 +1,7 @@
+---
+title: '- Tmux'
+---
+
 ## config file
 
 ```bash title="~/.tmux.conf || /etc/tmux.conf" linenums="1"
