@@ -29,6 +29,9 @@ theme:
 
 copyright: Copyright &copy; 2025 Gibarian
 
+extra_css:
+  - stylesheets/extra.css
+
 # Markdown extensions
 markdown_extensions:
   - abbr

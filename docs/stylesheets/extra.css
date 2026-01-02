@@ -1,0 +1,12 @@
+:root { 
+    --md-typeset-font-size: 0.65rem; /* default is 0.9rem */ 
+    --md-typeset-line-height: 1.45; /* optional */ 
+}
+
+p {
+  font-size: 0.65rem;
+}
+
+li {
+    font-size: 0.65rem;
+}
