@@ -1,16 +1,17 @@
 site_name: Tech-Blog
 site_url: https://sitename.example
+extra_css:
+  - stylesheets/extra.css
 theme:
   icon:
     logo: material/laptop
   favicon: ./assets/head/devops.png
   name: material
   font:
-    text: Merriweather Sans
-    code: Red Hat Mono
+    # text: Lora  # Font
+    code: Red Hat Mono # Font
   features:
     - navigation.footer
-
   palette:
     # Dark Mode
     - scheme: slate
@@ -26,11 +27,6 @@ theme:
         name: Light mode
       primary: black
       accent: indigo
-
-copyright: Copyright &copy; 2025 Gibarian
-
-extra_css:
-  - stylesheets/extra.css
 
 # Markdown extensions
 markdown_extensions:
@@ -58,3 +54,6 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+
+# Footer
+copyright: Copyright &copy; 2025 Gibarian
