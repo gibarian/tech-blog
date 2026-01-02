@@ -32,8 +32,6 @@ title: '- DNS'
 
 ### Diagram Description
 
-Lorem ipsum
-
 1. **DNS Client** queries **Recursive Resolver** to resolve **FQDN** (Fully Qualified Domain Name) __github.com.__
 2. The **Recursive Resolver** queries **Root Name Server** __(.)__ for __github.com.__
 3. The **Root Name Server** refers **Recursive Resolver** to the (.com) **TLD** (Top-Level Domain) **Authoritative Server**
