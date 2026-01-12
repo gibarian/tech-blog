@@ -1,5 +1,7 @@
 ---
 title: '- DNS'
+hide: 
+  - toc
 ---
 
 ## Diagram
