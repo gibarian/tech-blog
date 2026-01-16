@@ -23,9 +23,18 @@ hide:
 	work ->> stage: git add <file>
 	stage ->> repo: git commit -m <message>
 	repo ->> remote: git push
-
+	repo ->> work: git checkout <id>
+	
+	remote --> stash: #160;
 	remote ->> repo: git fetch
+	repo ->> work: git merge
 	remote ->> work: git pull
+	Note over remote,work: effectively: git fetch + git merge
+
+	
+	remote --> stash: #160;
+	stage ->> work: git reset
+	repo ->> work: git reset --hard
 ```
 
 ## Commands
