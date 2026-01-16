@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://sitename.example/</loc>
+         <lastmod>2026-01-16</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/topics/bash/</loc>
+         <lastmod>2026-01-16</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/topics/dns/</loc>
+         <lastmod>2026-01-16</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/topics/git/</loc>
+         <lastmod>2026-01-16</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/topics/screen/</loc>
+         <lastmod>2026-01-16</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/topics/search/</loc>
+         <lastmod>2026-01-16</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/topics/terminator/</loc>
+         <lastmod>2026-01-16</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/topics/tmux/</loc>
+         <lastmod>2026-01-16</lastmod>
+    </url>
+</urlset>
