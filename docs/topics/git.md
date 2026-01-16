@@ -1,6 +1,32 @@
 ---
 title: '- Git'
+hide: 
+  - toc
 ---
+
+## Diagram
+
+```mermaid
+	sequenceDiagram
+	
+	box Local Repo
+    participant stash as Stash
+	participant work as Working<br/>Directory
+	participant stage as Staging<br/>Area
+	participant repo as Local<br/>Repository
+	end
+
+	box Remote Repo
+	participant remote as github
+	end
+
+	work ->> stage: git add <file>
+	stage ->> repo: git commit -m <message>
+	repo ->> remote: git push
+
+	remote ->> repo: git fetch
+	remote ->> work: git pull
+```
 
 ## Commands
 
